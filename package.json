@@ -1,0 +1,12 @@
+{
+  "name": "proneutron",
+  "version": "0.0.1",
+  "description": "A HTML web component library",
+  "main": "index.js",
+  "author": "David Blankenship",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@yalesites-org/tokens": "^1.21.6"
+  }
+}
